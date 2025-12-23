@@ -4,3 +4,6 @@ Brindes
 Brinquedos
 Folhetos
 eletrônicos
+Casa
+Carro
+Moto

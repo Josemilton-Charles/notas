@@ -10,3 +10,5 @@ Moto
 Tangerina
 Mamao
 Melancia
+Abacate
+Acerola

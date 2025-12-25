@@ -10,3 +10,6 @@ Moto
 Tangerina
 Mamao
 Melancia
+Jaca
+Caja
+Caju

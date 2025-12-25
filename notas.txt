@@ -7,3 +7,6 @@ eletrônicos
 Casa
 Carro
 Moto
+Tangerina
+Mamao
+Melancia

@@ -13,3 +13,5 @@ Melancia
 Jaca
 Caja
 Caju
+Abacate
+Acerola
